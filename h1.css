@@ -1,0 +1,13 @@
+img{
+  border-radius:40%;
+  float: right;
+  height: 300px;
+  width: 300px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color:#FF8C00;
+    border-radius: 20px;
+  font-size: medium;
+}
